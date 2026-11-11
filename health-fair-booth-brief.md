@@ -1,7 +1,7 @@
 # Community Health Fair Booth Brief — Weight Management & Metabolic Health
-
-**Event:** Outdoor Health Fair, Chicago — Tomorrow (Thursday, Nov 12, 2026)
+**Event:** Outdoor Health Fair, Chicago — Thursday, Nov 12, 2026
 **Focus:** Weight management & metabolic health | **Prepared for:** Clinic team (phone-ready)
+**Data pulled:** Nov 11, 2026 (ClinicalTrials.gov + NWS hourly forecast)
 
 ---
 
@@ -11,36 +11,34 @@
 
 | Field | Registry value (as reported today) |
 |---|---|
-| **NCT Number** | NCT05822830 |
+| **NCT Number** | **NCT05822830** |
 | **Current Recruitment Status** | **Completed** |
-| **Sponsor** | Eli Lilly and Company |
+| **Sponsor** | **Eli Lilly and Company** |
 | **Phase** | **Phase 3b** |
 | **Design** | Randomized controlled; ~74-week study |
-| ** Population** | Adults with obesity or overweight + weight-related comorbidities, **without** type 2 diabetes |
-| ** Interventions** | Tirzepatide (drug) vs. Semaglutide (drug) |
+| **Population** | Adults with obesity or overweight + weight-related comorbidities, **without** type 2 diabetes |
+| **Interventions** | Tirzepatide (drug) vs. Semaglutide (drug) |
 
-**Chat point for visitors:** This landmark head-to-head trial has **finished enrolling and is completed** — it is no longer accepting participants. It's a great talking point on why we're seeing more GLP-1 trials (tirzepatide/Zepbound, semaglutide/Ozempic/Wegovy) in obesity care, and where to find *ongoing* studies (see list below).
+**Chat point for visitors:** This landmark head-to-head trial has **finished enrolling and is completed** — it is no longer accepting participants. Great talking point on why we're seeing more GLP-1 trials (tirzepatide/Zepbound, semaglutide/Ozempic/Wegovy) in obesity care, and where to find *ongoing* studies (see list below).
 
 ---
 
 ## 📋 Other Currently Recruiting Obesity / Weight-Management Studies
 
-Point interested visitors here — **182 studies** match obesity/overweight + weight management and are **currently recruiting** per ClinicalTrials.gov. Pick a few to share:
+Point interested visitors here — **these 8 are confirmed RECRUITING** per ClinicalTrials.gov (search run Nov 11, 2026; conditions: obesity/overweight + weight management):
 
-| NCT Number | Short Title | Phase |
-|---|---|---|
-| NCT06275061 | Chinese Obesity and MEtabolic Surgery Database (COMES Database) | NA |
-| NCT06432790 | Comparative-effectiveness of a Healthy Lifestyle and Asthma Management Program, In-person vs. ONline | NA |
-| NCT06207110 | Family, Responsibility, Education, Support, and Health for Food Responsiveness | NA |
-| NCT07317310 | The NTU JO-SMART Study | NA |
-| NCT07839832 | Stanford Healthy Goals Study | NA |
-| NCT07638345 | DASH-Obesity: Explainable AI for Family-Centric Personalized Weight Control in Adolescents and Young Adults With Obesity and Chronic Conditions | NA |
-| NCT07446972 | Impact of Bariatric Surgery on Female Sexual Function and Sex Hormones | NA |
-| NCT07702461 | Determination of Resistance Training Status for Patients on Glucagon-Like Peptide-1 Receptor Agonists | NA |
-| NCT07430111 | Flow-Controlled Versus Volume-Controlled Ventilation in Bariatric Surgery | NA |
-| NCT07461610 | Stool Analysis After Sleeve Gastrectomy vs Gastric Bypass | NA |
+| # | NCT Number | Short Title | Sponsor |
+|---|---|---|---|
+| 1 | **NCT07839832** | Stanford Healthy Goals Study | Stanford University |
+| 2 | **NCT07638345** | DASH-Obesity: Explainable AI for Family-Centric Personalized Weight Control in Adolescents & Young Adults With Obesity and Chronic Conditions (industry-led) | Adhera Health, Inc. |
+| 3 | **NCT07317310** | The NTU JO-SMART Study | National Taiwan University Hospital |
+| 4 | **NCT06207110** | Family, Responsibility, Education, Support, and Health for Food Responsiveness | University of California, San Diego |
+| 5 | **NCT06432790** | Comparative-effectiveness of a Healthy Lifestyle and Asthma Management Program, In-person vs. Online | Massachusetts General Hospital |
+| 6 | **NCT07461610** | Stool Analysis After Sleeve Gastrectomy vs. Gastric Bypass | Cairo University |
+| 7 | **NCT07446972** | Impact of Bariatric Surgery on Female Sexual Function and Sex Hormones | Cairo University |
+| 8 | **NCT06275061** | Chinese Obesity and MEtabolic Surgery Database (COMES Database) | Jinan University Guangzhou |
 
-*Visitor handout tip: " gulf any study here — go to clinicaltrials.gov and enter the NCT number to learn if you're eligible."*
+*Visitor handout tip: "Any study here — go to clinicaltrials.gov and enter the NCT number to check eligibility. Talk to your care team first."*
 
 ---
 
@@ -61,7 +59,7 @@ Point interested visitors here — **182 studies** match obesity/overweight + we
 | 7 PM | 51°F | Slight Chance Rain | 16% |
 | 8 PM | 51°F | Mostly Cloudy | 11% |
 
-**Setup recommendation: 5:00–6:30 PM tonight** — rain risk drops from ~70% to ~20% and temps stay 50–52°F. Have a rain date / tarp ready; Shoulder heaters for staff.
+**Setup recommendation: 5:00–6:30 PM tonight** — rain risk drops from ~70% to ~20% and temps stay 50–52°F. Have a rain date / tarp ready; bring shoulder heaters for staff.
 
 ### Overnight into Thursday morning
 
@@ -79,14 +77,14 @@ Point interested visitors here — **182 studies** match obesity/overweight + we
 | 6–8 PM | 42–44°F | Rain Likely | 65% |
 | 9–11 PM | 40–42°F | Chance Rain | 52% |
 
-**Teardown recommendation: 8:00–9:00 AM Thursday** — dry (≤15%), light 42–44°F, before rain returns (59%+ by noon). Afternoon/today is rainy; morning is your window.
+**Teardown recommendation: 8:00–9:00 AM Thursday** — dry (≤15%), light 42–44°F, before rain returns (59%+ by noon). Afternoon is rainy; morning is your window.
 
 ### Key takeaways
 - **Rain is the enemy today:** 65–73% chances from 1 PM through 8 PM, easing to ~11–20% by 6–8 PM.
 - **Best setup slot tonight: 5–6:30 PM** (rain chance falling fast, 50–52°F).
 - **Best teardown slot: 8–9 AM Thursday** (rain chance ≤15%).
 - **After 3 PM Thursday: rain likely (59–73%)** — avoid setup Saturday afternoon.
-- Pair the booth with a pop-up canopy + weighted stop sign; temps will feel below the radar at 40s in the morning.
+- Pair the booth with a pop-up canopy + weighted stop sign; temps feel below the radar at 40s in the morning.
 
 ---
 
@@ -101,4 +99,4 @@ Point interested visitors here — **182 studies** match obesity/overweight + we
 ✓ Facts source: clinicaltrials.gov (registry data pulled Nov 11, 2026)
 ```
 
-*Data sources: ClinicalTrials.gov API (NCT05822830 record + recruiting-obesity search, 182 matches) and NWS hourly forecast for Chicago, IL (41.88°N, 87.63°W), issued 11/11/2026 12:51 PM local.*
+*Data sources: ClinicalTrials.gov API (NCT05822830 record + recruiting-obesity search, 8 verified recruiting studies) and NWS hourly forecast for Chicago, IL (41.88°N, 87.63°W), issued 11/11/2026 12:51 PM local. Re-checkforecast Thursday morning before final setup times.*
